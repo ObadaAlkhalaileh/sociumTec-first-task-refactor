@@ -1,0 +1,8 @@
+.header {
+    position: relative;
+    background-color: white;
+    display: flex;
+    padding: 4px 24px;
+    transition: all 0.25 linear;
+    max-height: 100px;
+  }
