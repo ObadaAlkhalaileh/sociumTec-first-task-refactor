@@ -1,0 +1,14 @@
+#poster{
+    position: relative;
+    height: calc(100vh - 70px);
+    width: 100vw;
+    z-index: -1;
+}
+#poster img{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    top: 0;
+}

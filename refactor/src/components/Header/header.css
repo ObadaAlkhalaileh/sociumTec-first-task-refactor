@@ -5,4 +5,15 @@
     padding: 4px 24px;
     transition: all 0.25 linear;
     max-height: 100px;
+    align-items: center;
+  }
+
+  .header-right-side,.cart-toggle{
+    width: 200px;
+    text-align: center;
+  }
+
+  .header-right-side{
+    align-self: center;
+    font-size: 1rem;
   }
